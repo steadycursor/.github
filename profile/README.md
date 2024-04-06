@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
+Steady Cursor is your go-to YouTube channel for cutting-edge programming insights aimed at developers at all stages of their careers, from juniors to seasoned pros. Dive into our content for a treasure trove of tips, tricks, and the best npm packages to elevate your coding skills.
 
-**Here are some ideas to get you started:**
+### Latest YouTube Episodes
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->

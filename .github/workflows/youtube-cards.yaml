@@ -16,3 +16,4 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCr6y8IpX9axaQpwlqh6PZiA
+          readme_path: ./profile/README.md

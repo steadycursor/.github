@@ -4,7 +4,5 @@ Steady Cursor is your go-to YouTube channel for cutting-edge programming insight
 
 ### Latest YouTube Episodes
 
--->
-
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->

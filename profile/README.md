@@ -5,4 +5,5 @@ Steady Cursor is your go-to YouTube channel for cutting-edge programming insight
 ### Latest YouTube Episodes
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Unlocking Typesafe Markdown with Next.js & TypeScript](https://ytcards.demolab.com/?id=qPY7oFxkEwk&title=Unlocking+Typesafe+Markdown+with+Next.js+%26+TypeScript&lang=en&timestamp=1710609016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unlocking Typesafe Markdown with Next.js & TypeScript")](https://www.youtube.com/watch?v=qPY7oFxkEwk)
 <!-- END YOUTUBE-CARDS -->
